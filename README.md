@@ -27,6 +27,14 @@
 # 🔥 My contribution streak
 
 <p align="center">
+  <a href="https://github.com/B-Lina">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=B-Lina&theme=dark"/>
+  </a>
+</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+<p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1#version3"/>
   </a>
