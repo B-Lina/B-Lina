@@ -8,7 +8,9 @@
   <a href="www.linkedin.com/in/lina-ballesteros-p"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<h4 align="center">I am currently strengthening my expertise in Backend Development using Java and Spring Boot, complemented by a solid foundation in Data Science with Python and Artificial Intelligence. Additionally, I have a strong interest in Cloud Computing architectures. I value collaborative environments where I can exchange ideas, contribute to technical discussions, and stay updated with the latest industry trends.</h4>
+<p align="center">
+  <i>I am currently strengthening my expertise in Backend Development using Java and Spring Boot, complemented by a solid foundation in Data Science with Python and Artificial Intelligence. Additionally, I have a strong interest in Cloud Computing architectures. I value collaborative environments where I can exchange ideas, contribute to technical discussions, and stay updated with the latest industry trends.</i>
+</p>
 
 
 ## :computer: About me 
