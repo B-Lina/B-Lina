@@ -1,7 +1,8 @@
 <h1 align="center">Hi , I'm Lina Ballesteros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h4 align="center">I am currently strengthening my expertise in Backend Development using Java and Spring Boot, complemented by a solid foundation in Data Science with Python and Artificial Intelligence. Additionally, I have a strong interest in Cloud Computing architectures. I value collaborative environments where I can exchange ideas, contribute to technical discussions, and stay updated with the latest industry trends.</h4>
-<br>
+
+## :computer: About me 
 <p>
   🎓 <b>Education:</b> Systems and Computer Engineering (Expected graduation: 2028).<br>
   ⚙️ <b>Backend:</b> Currently learning <b>Java</b> and <b>Spring Boot</b>.<br>
@@ -56,26 +57,3 @@
   <a href="https://x.com/TU_USUARIO"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
----
-
-## 📘 Top Projects
-
-<p align="left">
-  <a href="https://github.com/B-Lina/NOMBRE_DE_TU_REPO">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=B-Lina&repo=FundamentosRedesNeuronales&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/B-Lina/OTRO_REPO">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=B-Lina&ChallengeConversorMonedasALURA
-&theme=tokyonight" />
-  </a>
-</p>
-
-
-### ⚙️ GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/B-Lina">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B-Lina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Lina&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-</p>
