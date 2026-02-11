@@ -14,7 +14,7 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="60%" valign="top">
       <h3>Technologies & Tools</h3>
       <b>Backend</b><br>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -28,7 +28,7 @@
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="40%" valign="top" align="center">
       <h3>Connect with me</h3>
       <a href="https://linkedin.com/in/lina-ballesteros-p"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br><br>
       <a href="https://x.com/TU_USUARIO"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a><br><br>
@@ -41,21 +41,21 @@
 
 ## 📘 Top Projects
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://github.com/B-Lina/FundamentosRedesNeuronales">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=B-Lina&repo=FundamentosRedesNeuronales&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=B-Lina&repo=FundamentosRedesNeuronales&theme=tokyonight" width="400" />
       </a>
-      <p align="center">
+      <p>
         <code>Python</code> <code>TensorFlow</code> <code>Jupyter</code>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://github.com/B-Lina/ChallengeConversorMonedasALURA">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=B-Lina&repo=ChallengeConversorMonedasALURA&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=B-Lina&repo=ChallengeConversorMonedasALURA&theme=tokyonight" width="400" />
       </a>
-      <p align="center">
+      <p>
         <code>Java</code> <code>API Rest</code> <code>Maven</code>
       </p>
     </td>
@@ -66,5 +66,5 @@
 
 ## 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=B-Lina&theme=tokyonight&hide_border=true" alt="Lina's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=B-Lina&theme=tokyonight&hide_border=true" />
 </p>
