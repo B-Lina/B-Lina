@@ -20,7 +20,7 @@
   📊 <b>Data:</b> Knowledge in Data Science and Analysis with <b>Python</b>.<br>
   🤖 <b>AI:</b> Solid understanding of Artificial Intelligence fundamentals.<br>
   ☁️ <b>Cloud:</b> Interested in Cloud Computing solutions.<br>
-  🌐 <b>Portfolio:</b> <a href="TU_LINK_DE_PORTAFOLIO_AQUI">View my projects here</a>
+  <!--🌐 <b>Portfolio:</b> <a href="TU_LINK_DE_PORTAFOLIO_AQUI">View my projects here</a>
 </p>
 
 ## 🛠️ Tech Stack
@@ -58,18 +58,25 @@
 ## 🔥 GitHub Stats & Contributions
 
 <p align="center">
-  <a href="https://github.com/B-Lina">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=B-Lina&theme=tokyonight&hide_border=true" alt="Lina's GitHub Streak" />
-  </a>
+  <a href="https://github.com/B-Lina">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=B-Lina&theme=tokyonight&hide_border=true" alt="Lina's GitHub Streak" />
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=B-Lina&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Lina&layout=compact&theme=tokyonight" />
+</p>
 
 ## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">📦 Project Name 1</h3>
+      <h3 align="center"> Helex S.O</h3>
       <p align="center">
         <a href="LINK_TO_PROJECT_1" target="_blank">
           <img src="https://via.placeholder.com/400x200?text=Project+1+Screenshot" alt="Project 1" width="100%"/>
@@ -86,7 +93,7 @@
       <p><strong>Java, Spring Boot, PostgreSQL</strong> - Descripción breve del proyecto. Sistema backend robusto con autenticación JWT y API RESTful.</p>
     </td>
     <td width="50%">
-      <h3 align="center">🤖 Project Name 2</h3>
+      <h3 align="center">Foro Hub</h3>
       <p align="center">
         <a href="LINK_TO_PROJECT_2" target="_blank">
           <img src="https://via.placeholder.com/400x200?text=Project+2+Screenshot" alt="Project 2" width="100%"/>
@@ -105,7 +112,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">☁️ Project Name 3</h3>
+      <h3 align="center">Uni Sigea</h3>
       <p align="center">
         <a href="LINK_TO_PROJECT_3" target="_blank">
           <img src="https://via.placeholder.com/400x200?text=Project+3+Screenshot" alt="Project 3" width="100%"/>
@@ -122,7 +129,7 @@
       <p><strong>AWS, Docker, Kubernetes</strong> - Aplicación cloud-native desplegada con infraestructura como código.</p>
     </td>
     <td width="50%">
-      <h3 align="center">📊 Project Name 4</h3>
+      <h3 align="center">Modelo de Detección de Fraudes</h3>
       <p align="center">
         <a href="LINK_TO_PROJECT_4" target="_blank">
           <img src="https://via.placeholder.com/400x200?text=Project+4+Screenshot" alt="Project 4" width="100%"/>
