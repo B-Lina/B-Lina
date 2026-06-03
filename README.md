@@ -1,26 +1,24 @@
-<h1 align="center">Hi , I'm Lina Ballesteros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Lina Ballesteros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">Backend Developer | Data Science Enthusiast | AI & Cloud Computing Learner</h3>
 
 <p align="center">
-  <a href="https://github.com/B-Lina"><img alt="Follow on GitHub" src="https://img.shields.io/github/followers/B-Lina?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=B-Lina&color=blueviolet&style=for-the-badge&label=Visitors"/>
-  <a href="www.linkedin.com/in/lina-ballesteros-p"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/B-Lina"><img alt="Follow on GitHub" src="https://img.shields.io/github/followers/B-Lina?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=B-Lina&color=blueviolet&style=for-the-badge&label=Visitors"/>
+  <a href="https://www.linkedin.com/in/lina-ballesteros-p" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center">
   <i>I am currently strengthening my expertise in Backend Development using Java and Spring Boot, complemented by a solid foundation in Data Science with Python and Artificial Intelligence. Additionally, I have a strong interest in Cloud Computing architectures. I value collaborative environments where I can exchange ideas, contribute to technical discussions, and stay updated with the latest industry trends.</i>
 </p>
 
-
 ## :computer: About me 
 <p>
-  🎓 <b>Education:</b> Systems and Computer Engineering (Expected graduation: 2028).<br>
-  ⚙️ <b>Backend:</b> Currently learning <b>Java</b> and <b>Spring Boot</b>.<br>
-  📊 <b>Data:</b> Knowledge in Data Science and Analysis with <b>Python</b>.<br>
-  🤖 <b>AI:</b> Solid understanding of Artificial Intelligence fundamentals.<br>
-  ☁️ <b>Cloud:</b> Interested in Cloud Computing solutions.<br>
-  <!--🌐 <b>Portfolio:</b> <a href="TU_LINK_DE_PORTAFOLIO_AQUI">View my projects here</a>
+  🎓 <b>Education:</b> Systems and Computer Engineering (Expected graduation: 2028).<br>
+  ⚙️ <b>Backend:</b> Currently learning <b>Java</b> and <b>Spring Boot</b>.<br>
+  📊 <b>Data:</b> Knowledge in Data Science and Analysis with <b>Python</b>.<br>
+  🤖 <b>AI:</b> Solid understanding of Artificial Intelligence fundamentals.<br>
+  ☁️ <b>Cloud:</b> Interested in Cloud Computing solutions.<br>
 </p>
 
 ## 🛠️ Tech Stack
@@ -58,28 +56,28 @@
 ## 🔥 GitHub Stats & Contributions
 
 <p align="center">
-  <a href="https://github.com/B-Lina">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=B-Lina&theme=tokyonight&hide_border=true" alt="Lina's GitHub Streak" />
-  </a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=B-Lina&theme=tokyonight&hide_border=true" alt="Lina's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=B-Lina&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=B-Lina&show_icons=true&theme=tokyonight" alt="Lina's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Lina&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Lina&layout=compact&theme=tokyonight" alt="Lina's Top Languages" />
 </p>
+
+
 
 ## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center"> Helex S.O</h3>
+      <h3 align="center">Helex S.O</h3>
       <p align="center">
         <a href="LINK_TO_PROJECT_1" target="_blank">
-          <img src="https://via.placeholder.com/400x200?text=Project+1+Screenshot" alt="Project 1" width="100%"/>
+          <img src="https://via.placeholder.com/400x200?text=Helex+S.O+Screenshot" alt="Project 1" width="100%"/>
         </a>
       </p>
       <p align="center">
@@ -90,13 +88,13 @@
           <img src="https://img.shields.io/badge/DEMO-blue?style=for-the-badge&logo=vercel"/>
         </a>
       </p>
-      <p><strong>Java, Spring Boot, PostgreSQL</strong> - Descripción breve del proyecto. Sistema backend robusto con autenticación JWT y API RESTful.</p>
+      <p><strong>Java, Spring Boot, PostgreSQL</strong> - Sistema backend robusto con arquitectura escalable, persistencia de datos y API RESTful.</p>
     </td>
     <td width="50%">
       <h3 align="center">Foro Hub</h3>
       <p align="center">
         <a href="LINK_TO_PROJECT_2" target="_blank">
-          <img src="https://via.placeholder.com/400x200?text=Project+2+Screenshot" alt="Project 2" width="100%"/>
+          <img src="https://via.placeholder.com/400x200?text=Foro+Hub+Screenshot" alt="Project 2" width="100%"/>
         </a>
       </p>
       <p align="center">
@@ -107,7 +105,7 @@
           <img src="https://img.shields.io/badge/DEMO-blue?style=for-the-badge&logo=vercel"/>
         </a>
       </p>
-      <p><strong>Python, TensorFlow, Pandas</strong> - Modelo de ML para análisis predictivo con visualizaciones interactivas.</p>
+      <p><strong>Java, Spring Boot, Spring Security</strong> - API REST para la gestión de un foro interactivo, implementando autenticación y autorización mediante tokens JWT.</p>
     </td>
   </tr>
   <tr>
@@ -115,7 +113,7 @@
       <h3 align="center">Uni Sigea</h3>
       <p align="center">
         <a href="LINK_TO_PROJECT_3" target="_blank">
-          <img src="https://via.placeholder.com/400x200?text=Project+3+Screenshot" alt="Project 3" width="100%"/>
+          <img src="https://via.placeholder.com/400x200?text=Uni+Sigea+Screenshot" alt="Project 3" width="100%"/>
         </a>
       </p>
       <p align="center">
@@ -126,13 +124,13 @@
           <img src="https://img.shields.io/badge/DEMO-blue?style=for-the-badge&logo=vercel"/>
         </a>
       </p>
-      <p><strong>AWS, Docker, Kubernetes</strong> - Aplicación cloud-native desplegada con infraestructura como código.</p>
+      <p><strong>Java, Spring Boot, Inteligencia Artificial</strong> - Sistema integral para la gestión y validación documental automatizada en procesos de contratación universitaria.</p>
     </td>
     <td width="50%">
       <h3 align="center">Modelo de Detección de Fraudes</h3>
       <p align="center">
         <a href="LINK_TO_PROJECT_4" target="_blank">
-          <img src="https://via.placeholder.com/400x200?text=Project+4+Screenshot" alt="Project 4" width="100%"/>
+          <img src="https://via.placeholder.com/400x200?text=Fraud+Detection+Screenshot" alt="Project 4" width="100%"/>
         </a>
       </p>
       <p align="center">
@@ -143,7 +141,7 @@
           <img src="https://img.shields.io/badge/DEMO-blue?style=for-the-badge&logo=vercel"/>
         </a>
       </p>
-      <p><strong>Python, Scikit-learn, Matplotlib</strong> - Dashboard de análisis de datos con insights automatizados.</p>
+      <p><strong>Python, Scikit-learn, Pandas</strong> - Modelo de Machine Learning enfocado en el análisis predictivo y detección de anomalías en transacciones financieras.</p>
     </td>
   </tr>
 </table>
@@ -153,8 +151,7 @@
 ## 🤝 Connect with me
 
 <p align="center">
-  <a href="https://facebook.com/TU_USUARIO"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/TU_USUARIO"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://x.com/TU_USUARIO"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://facebook.com/TU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/TU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://x.com/TU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
-
