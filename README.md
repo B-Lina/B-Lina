@@ -59,16 +59,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=B-Lina&theme=tokyonight&hide_border=true" alt="Lina's GitHub Streak" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=B-Lina&show_icons=true&theme=tokyonight" alt="Lina's GitHub Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Lina&layout=compact&theme=tokyonight" alt="Lina's Top Languages" />
-</p>
-
-
-
 ## 🚀 Featured Projects
 
 <table>
